@@ -251,7 +251,7 @@ def format_batch_with_groq(batch: list[dict]) -> list[dict]:
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": payload},
             ],
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             temperature=0.0,
         )
         raw = chat_completion.choices[0].message.content.strip()
