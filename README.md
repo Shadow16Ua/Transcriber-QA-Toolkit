@@ -1,6 +1,6 @@
 # Transcriber QA Toolkit 🎙️
 
-An automated Quality Assurance and gap-filling pipeline for freelance audio transcribers and data annotators. Built as a submission for the **Hacktoberfest 2026 Open-Source AI Challenge (Week 2: Side Hustle)**.
+An automated Quality Assurance and gap-filling pipeline for freelance audio transcribers and data annotators. Used in a submission for the **Hacktoberfest 2026 Open-Source AI Challenge (Week 2: Side Hustle)**.
 
 ## What it does
 This tool helps transcribers cut down their manual QA time by 90%:
